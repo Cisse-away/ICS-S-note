@@ -1,0 +1,4 @@
+2018-12-25
+1.Java包名： com.公司名.....
+2.设置JSP文件编码:Windows/Preferences/Web/JSP Files - Encoding - ISO 10646/Unicode(UTF-8)
+3.取色调色器: ColorSchemer Studio / TakeColor v8.0 - 寒星汉化
